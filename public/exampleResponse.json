@@ -1,0 +1,56 @@
+{
+  "status": "ok",
+  "totalResults": 5,
+  "articles": [
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": "BBC Sport",
+      "title": "'Rafiq should be praised for bravery'",
+      "description": "Azeem Rafiq should be \"praised\" for his bravery and \"should never have been put through\" the Yorkshire County Cricket Club racism scandal, says the club's new chair Lord Patel.",
+      "url": "http://www.bbc.co.uk/sport/cricket/59206664",
+      "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/D3D0/production/_121442245_rafiq-index.jpg",
+      "publishedAt": "2021-11-08T15:22:43.6028908Z",
+      "content": "Azeem Rafiq should be \"praised\" for his bravery and \"should never have been put through\" the Yorkshire County Cricket Club racism scandal, says the club's new chair Lord Patel.\r\nLord Patel said Yorks… [+568 chars]"
+    },
+    {
+      "source": { "id": "bbc-sport", "name": "BBC Sport" },
+      "author": "BBC Sport",
+      "title": "T20 World Cup: India v Namibia - clips, radio & text",
+      "description": "Follow live text, TMS commentary and in-play clips as India play Namibia in the T20 World Cup at the Sheikh Zayed Cricket Stadium, Abu Dhabi.",
+      "url": "http://www.bbc.co.uk/sport/live/cricket/58260669",
+      "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.22.0/images/bbc-sport-logo.png",
+      "publishedAt": "2021-11-08T13:52:32.2164991Z",
+      "content": "Pakistan and New Zealand are therefore through to the semi-finals from Group 2 in first and second respectively.\r\nEngland face New Zealand in Abu Dhabi on Wednesday, before Pakistan play Australia in… [+314 chars]"
+    },
+    {
+      "source": { "id": "abc-news-au", "name": "ABC News (AU)" },
+      "author": "ABC News",
+      "title": "Australian cricket team to tour Pakistan for first time in 24 years in 2022",
+      "description": "Australia have not played in Pakistan since Mark Taylor hit an unbeaten 334 in Peshawar in 1998, with security concerns meaning all tours since have been played in the UAE.",
+      "url": "http://www.abc.net.au/news/2021-11-08/australian-cricket-team-first-pakistan-tour-since-1998/100604584",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/ef45f2246831af8df8331f84ccbf550e?impolicy=wcms_crop_resize&cropH=1680&cropW=2983&xPos=17&yPos=94&width=862&height=485",
+      "publishedAt": "2021-11-08T11:25:01Z",
+      "content": "Cricket Australia will push ahead with the first tour of Pakistan in 24 years, with chief executive Nick Hockley insistent he wants the trip in March to go ahead.\r\n<ul><li>Security concerns have mean… [+2936 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
